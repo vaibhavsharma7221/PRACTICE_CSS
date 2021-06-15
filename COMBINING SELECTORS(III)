@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>COMBINING SELECTORS(III)</title>
+	<style>
+		section li{
+			color:orange;
+		}
+	</style>
+</head>
+       
+<body>
+       <h1>decendent selectors</h1>
+
+       <section>
+       	table of contents:
+       	<ul>
+       		<li>article 1</li>
+       		<li>article 2</li>
+       		<li>article 3</li>
+        </ul>		
+       </section>
+
+       <article>
+       	shopping list:
+       	<ul>
+       		<li>crispy tasty burger</li>
+       		<li>shezwan sause</li>
+       		<li>coke</li>
+       		<li>panner onion pizza</li>
+       	</ul>
+       </article>
+
+
+</body>
+</html>
